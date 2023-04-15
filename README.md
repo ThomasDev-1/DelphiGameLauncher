@@ -9,6 +9,6 @@ If you install the game using the "Delphi-Launcher-SETUP.exe" file, you will nee
 Under "Shortcut" click Advanced and check 'Run as administrator' in order for the program to be able to read/write to the data files.
 
 
-==========================================================================================
+===========================================================================
 
 Made by ThomasDev
